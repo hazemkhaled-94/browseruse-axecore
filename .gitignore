@@ -1,0 +1,6 @@
+results
+*mypy*
+*pytest*
+*__pycache__*
+*cache*
+dist
